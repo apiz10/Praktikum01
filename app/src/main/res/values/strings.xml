@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Praktikum01</string>
+
+    <string name="hello_world">Hello world from 1004105010100!</string>
+    <string name="apakabar_dunia">Apa kabar dunia dari 1004105010100!</string>
+    <string name="tombol_terjemahan">Terjemahkan</string>
+    <string name="action_settings">Settings</string>
+</resources>
